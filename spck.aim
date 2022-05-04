@@ -1,0 +1,26 @@
+**  Change Icon system
+**  Add special comment in js,css,scss
+**  Add emmet support in jsx
+**  Detect js,jsx files and change keybord
+**  Add support for aim file 
+**  Add support keybord in aim
+**  Fix parh import 
+**  Fix snippets of js
+**  Fix font
+**  Auto suggetion of js module import 
+*^  Add support for express,mongoose,require
+*^  Enhance JSX detection and fix the mode 
+**  Auto adjustable special comment icons 
+*^  Improve autosuggestion of module import 
+*^  Auto import module in js from package.json
+**  Mui Emmet support 
+**  Improve CSS,SCSS,JS Highlighting
+*^  JS Highlighting
+**  Fix html template
+**  Improve Icon manger 
+**  Add/improve support for auto templating of html,js 
+**  Improve autocompletation icons 
+*^  Add support to add custom snippets 
+*^  Fix filetab 
+*^  Workspace based settings 
+*^  Improve css linting
